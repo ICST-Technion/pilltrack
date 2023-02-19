@@ -19,6 +19,9 @@ was late for this spesific dose.\
 One day befroe the "refill time" the patient will get an app notification as a reminder that he need to refill the pill box in the coming 24 hours.\
 in the refill day, and before the first does, if the patient did not refill the box according to the reminder notification (the pill box in that case gonna be empty) the system will stop.
 
+## Project Poster:
+![pilltrack_poster_page-0001](https://user-images.githubusercontent.com/116976579/219964681-bfead2e6-48d1-4b6d-91fa-6e38bef64aa1.jpg)
+
 ## In this project git you will find these folders :
 #### - README file : this file :D
 #### - EspCode folder: in that folder you will find the source code we have built for the esp side (hardware).
@@ -26,3 +29,24 @@ in the refill day, and before the first does, if the patient did not refill the 
 #### - How to use file:
 #### - UNIT TESTS file: contains tests we have does to validate how some hardware parts work.
 #### - Configirations: in that file you can find description on how to config some parammeters we used in the project code.
+
+## Arduino/ESP libraries installed for the project:
+* Arduino_ConnectionHandler - version 0.7.2
+* Arduino_DebugUtils - version 1.4.0
+* ArduinoECCX08 - version 1.3.7
+* ArduinoIO TCloud - version 1.8.0
+* ArduinoMqttClient - version 0.1.6
+* MKRGSM - version 1.5.0
+* MKRNB - version 1.5.1
+* MKRWAN - version 1.1.0
+* RTCZero - version 1.6.0
+* Wifi101 - version 0.16.1
+* WiFiNINA - version 1.8.13
+* Adafruit BusIO - version 1.14.1
+* Adafruit PCF8574 - version 1.1.0
+* Adafruit SleepyDog - version 1.6.3
+* EasyPCF8574 - version 1.1.0
+* FaBo 212 LCD PCF8574 - version 1.0.0
+* FastLED - version 3.5.0
+* Firebase Arduino Client Library for ESP8266 and ESP32 - version 4.2.7
+* PCF8574 library - version 2.3.4
