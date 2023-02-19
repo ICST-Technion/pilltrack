@@ -1,4 +1,4 @@
-# pilltrack Project by : Malak Marrid, Mahmoud Massarwi & Zaina Darawsha.
+# Pilltrack Project by : Malak Marrid, Mahmoud Massarwi & Zaina Darawsha.
 In this project we have built a smart pill box that makes it easy for patients to track their pill doses over a week (7 days), pill doses times, and to get 
 notified by a smartphone app to take doses in time and to not miss any.
 The smart pill box is responsive, and gives sound and visual notifications to help the patient. 
