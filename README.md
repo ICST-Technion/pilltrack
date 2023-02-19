@@ -3,7 +3,7 @@ In this project we have built a smart pill box that makes it easy for patients t
 notified by a smartphone app to take doses in time and to not miss any.
 The smart pill box is responsive, and gives sound and visual notifications to help the patient. 
 
-## Our Project systems in details :
+## Our Project in details :
 First, the patient and his monitor log in our app.\
 The patient chooses one day of the week as a "refill day".\
 In the app, the patient can choose the 2 pill doses times through the day that he want to take the pill at these times through the week.\
