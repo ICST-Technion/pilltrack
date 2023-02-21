@@ -25,9 +25,9 @@ one day after the refill day, and before the first does, if the patient did not 
 #### - README file : this file :D
 #### - EspCode folder: in that folder you will find the source code we have built for the esp side (hardware).
 #### - SECRETS ?
-#### - How to use file:
-#### - UNIT TESTS file: contains tests we have does to validate how some hardware parts work.
-#### - Configirations: in that file you can find description on how to config some parammeters we used in the project code.
+#### - How to run the system: wiring diagram + steps to run the system.
+#### - UNIT TESTS: contains tests we have does to validate how some hardware parts work.
+#### - StatesAndConfigirations: contains 2 files, one file is about configurable_parameters we used in the project code and another pdf file describing the different states in our system and how we move from one another, including how we handle errors.
 
 ## Arduino/ESP libraries installed for the project:
 * Arduino_ConnectionHandler - version 0.7.2
