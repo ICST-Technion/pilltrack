@@ -1,24 +1,25 @@
 ## Pilltrack Project by : Malak Marrid, Mahmoud Massarwi & Zaina Darawsha.
 In this project we have built a smart pill box that makes it easy for patients to track their pill doses over a week (7 days), pill doses times, and to get 
-notified by a smartphone app to take doses in time and to not miss any.
+notified by a smartphone app when the pill times come and when they are late for pills. In addition, a helper of the patient can use the app to see the patient LOG and get notified when the patient is late for pills.
 The smart pill box is responsive, and gives sound and visual notifications to help the patient. 
 
 ## Our Project in details :
-First, the patient and his monitor log in our app.\
-The patient chooses one day of the week as a "refill day".\
-In the app, the patient can choose the 2 pill doses times through the day that he want to take the pill at these times through the week.\
-If the patient forgot where the pill box is, he can press on search for box botton in the app the that will couse the pill box to light in different colors 
-and make loud continuous sound to help the patient find the box location.\
-5 minutes befroe each pill does time, the patiient will get notified in the app that he has to take his pill. and the suitable cell in the pill box will light in blue to help the patient take the right does.\
-If the patient took his pill the suitable cell will light in purble to confirm taht and he will get app notification for that and there is a table in the app that shows the status of each pill dose through the week. and it will be updated in the suitable plcae that he took the pill for that does in time.\
-If the patient did not take the pill in time untill 15 minutes after the pill dose time, the patient and the monitro will both get notified that the patient is 15 minutes late for the pill and the suitabel cell in the pill box for that does will light in yellow so the monitor can call the patient check him and assure he gets the pill in time.\
-If the patient is reminded and took the pill, he will get notification for that and the pill does table will be updated accordingly.\
-if the patient is 30 minutes late for the pill does, he and the monitor will get notified that he was too late to get his pill does and the suitable cell
-in the pill box will light on and off in red color with on and off sound for three times and in the app the pill doses table will be updated that the patient
-was late for this spesific dose.\
-One day befroe the "refill time" the patient will get an app notification as a reminder that he need to refill the pill box in the coming 24 hours.\
-in the refill day, and before the first does, if the patient did not refill the box according to the reminder notification (the pill box in that case gonna be empty) the system will stop.
+First, the patient and his helper both signup to the app (each on his phone).\
+The patient enters the pill times and chooses a "refill day": when the box needs refill after 1 week of use.\
+Settings: Inside the app, the patient can update the pill times: 2 times per day in which the patient will take his pill doses (2 cells in the box per day) .\
+Search Box: If the patient forgot where the pill box is, he can press on "search box" botton in the app the that will cause the pill box to light in different colors 
+and make loud continuous sounds to help the patient find the box location.\
+Reminders: 5 minutes before each pill does time, the patient will get a reminder notification to take his pills. and the suitable cell in the pill box will light in blue to help the patient take the right dose.\
+Pills taken in time: If the patient took his pills from the right cell, it will light in purple to confirm him that he's done okay, and he will get a "good job notification". There is a virtual pill box in the app that shows the status of each pill dose through the week and it will be updated in the suitable cell with a v mark.\
+Late for pills: If the patient did not take the pill in time untill 15 minutes after the pill dose time, the patient and the helper person will both get notified and the relevant cell in the pill box for that does will light in yellow. The helper person is expected to call the patient and assure he gets the pills asap.\
+If the patienttakes the pills now he is pkay and the status in the app will be updated to "taken".\
+Otherwise, if the patient is 30 minutes late for the pill does, he and the helper again will get notified that he was too late to get his pills and the relevant cell
+in the pill box will light on and off in red color with sound for 3sec and in the app the status will be updated to "late".\
 
+Refill day: One day before the "refill day" the patient will get a reminder that he needs to refill the pill box in the coming 24 hours (so he has time to buy pills in case they ran out).\
+one day after the refill day, and before the first does, if the patient did not refill the box according to the reminder notification, he will get another warning which asks him to refill since the pill box in that case is empty(after 1 week of use) so the whole system (pillbox + app) will freeze until the user confirms in the app that he refilled the whole box.\
+
+LOG: both the user and the helper can see a log of the operations (what was the status of taking pills in each date).\
 ## Project Poster:
 ![pilltrack_poster_page-0001](https://user-images.githubusercontent.com/116976579/219964681-bfead2e6-48d1-4b6d-91fa-6e38bef64aa1.jpg)
 
