@@ -1,4 +1,4 @@
-# iot w2022-2-23 Pill Track project.
+# iot w2022-2023 Pill Tracker app.
 
 A new Flutter project.
 
